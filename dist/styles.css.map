@@ -1,0 +1,1 @@
+{"version":3,"file":"styles.css","mappings":";;;AAAA;IACI,oCAAoC;AACxC,E;;;;ACDI;EACA,yBAAmC","sources":["webpack://cards/./src/test.css","webpack://cards/./src/style.scss"],"sourcesContent":["body {\r\n    background-color: rgb(217, 100, 227);\r\n};",".hello {\r\n    &__world {\r\n    background-color: rgb(255, 255, 25);\r\n    }\r\n};"],"names":[],"sourceRoot":""}
